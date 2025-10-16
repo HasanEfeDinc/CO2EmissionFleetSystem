@@ -1,0 +1,74 @@
+[
+  {
+    "utts": "UTTS-1001",
+    "plate": "34 KRY 001",
+    "vehicleType": "Motosiklet Kurye",
+    "fuelType": "Benzin",
+    "tankAmount": "12 L",
+    "photo": "/beyazKuryeMotoru.jpg"
+  },
+  {
+    "utts": "UTTS-2001",
+    "plate": "06 EGA 200",
+    "vehicleType": "Binek",
+    "fuelType": "Benzin",
+    "tankAmount": "50 L",
+    "photo": "/fiatEgea.jpg"
+  },
+  {
+    "utts": "UTTS-3001",
+    "plate": "35 JDR 301",
+    "vehicleType": "Traktör",
+    "fuelType": "Dizel",
+    "tankAmount": "180 L",
+    "photo": "/johnDeere.jpg"
+  },
+  {
+    "utts": "UTTS-4001",
+    "plate": "16 MAN 401",
+    "vehicleType": "Kamyon",
+    "fuelType": "Dizel",
+    "tankAmount": "400 L",
+    "photo": "/manTruck.png"
+  },
+  {
+    "utts": "UTTS-2002",
+    "plate": "41 MGN 202",
+    "vehicleType": "Binek",
+    "fuelType": "Dizel",
+    "tankAmount": "47 L",
+    "photo": "/megane.jpg"
+  },
+  {
+    "utts": "UTTS-4002",
+    "plate": "01 MRC 402",
+    "vehicleType": "Kamyon",
+    "fuelType": "Dizel",
+    "tankAmount": "420 L",
+    "photo": "/mercedesTruck.jpg"
+  },
+  {
+    "utts": "UTTS-3002",
+    "plate": "07 NHD 302",
+    "vehicleType": "Traktör",
+    "fuelType": "Dizel",
+    "tankAmount": "160 L",
+    "photo": "/newHolland.png"
+  },
+  {
+    "utts": "UTTS-4003",
+    "plate": "27 SCN 403",
+    "vehicleType": "Tır",
+    "fuelType": "Dizel",
+    "tankAmount": "550 L",
+    "photo": "/scaniaTruck.jpeg"
+  },
+  {
+    "utts": "UTTS-2003",
+    "plate": "55 SKD 203",
+    "vehicleType": "Binek",
+    "fuelType": "Benzin",
+    "tankAmount": "66 L",
+    "photo": "/skodaSuperb.png"
+  }
+]
